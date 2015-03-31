@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pitch Perpect/RecordSoundsViewController.swift"
+            timestampString = "449379599.590982"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "RecordSoundsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pitch_Perpect.RecordSoundsViewController.recordedAudio.getter : Swift.ImplicitlyUnwrappedOptional&lt;Pitch_Perpect.RecordedAudio&gt;"
+                  moduleName = "Pitch Perpect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josephtan/Documents/IPHONE%20APPS/Pitch%20Perpect/Pitch%20Perpect/RecordSoundsViewController.swift"
+                  timestampString = "449382047.132845"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pitch_Perpect.RecordSoundsViewController.recordedAudio.materializeForSet : Swift.ImplicitlyUnwrappedOptional&lt;Pitch_Perpect.RecordedAudio&gt;"
+                  moduleName = "Pitch Perpect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josephtan/Documents/IPHONE%20APPS/Pitch%20Perpect/Pitch%20Perpect/RecordSoundsViewController.swift"
+                  timestampString = "449382047.133288"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pitch_Perpect.RecordSoundsViewController.init (Pitch_Perpect.RecordSoundsViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; Pitch_Perpect.RecordSoundsViewController"
+                  moduleName = "Pitch Perpect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josephtan/Documents/IPHONE%20APPS/Pitch%20Perpect/Pitch%20Perpect/RecordSoundsViewController.swift"
+                  timestampString = "449382047.133596"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "291">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pitch_Perpect.RecordSoundsViewController.init (Pitch_Perpect.RecordSoundsViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Pitch_Perpect.RecordSoundsViewController"
+                  moduleName = "Pitch Perpect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josephtan/Documents/IPHONE%20APPS/Pitch%20Perpect/Pitch%20Perpect/RecordSoundsViewController.swift"
+                  timestampString = "449382047.13505"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "215">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pitch Perpect/RecordSoundsViewController.swift"
+            timestampString = "449382449.795558"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "RecordSoundsViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pitch Perpect/RecordSoundsViewController.swift"
+            timestampString = "449459241.28123"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "RecordButton(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
